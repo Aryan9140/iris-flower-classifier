@@ -23,4 +23,14 @@ An interactive web application built with Streamlit that classifies Iris flower 
 - **Pandas**
 - **Scikit-learn**
 
+📊 Dataset
+The application uses the Iris dataset from Scikit-learn, which includes 150 samples of Iris flowers with four features:
+
+Sepal Length
+
+Sepal Width
+
+Petal Length
+
+Petal Width
 
